@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MakauLeon
 - 👀 I am passionate about anything software engineering and business intelligence related and Machine Learing.
-- 🌱 I’m currently learning Cybersecurity Fundamentals 
+- 🌱 I’m currently learning AWS, Cybersecurity and Data Science
 - 💞️ I’m looking to collaborate on any hands on projects
 - 📫 How to reach me  - 
 makauleon21@gmail.com 
