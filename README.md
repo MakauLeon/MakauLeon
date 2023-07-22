@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Makau Leon</h1>
 <h3 align="center">A passionate Full stack developer from Nairobi,Kenya.</h3>
 
+- Hi Im currently on track to complete my **Bachelors degree in Information Technology.**
+
+- I’m currently enrolled in a 12-month **Software Engineering programme at ALX Africa.**
+
 - 👯 I’m looking to collaborate on **any hands on projects and challenges**
 
 - 🤝 I’m looking for help with **cloud architecture and Devops tasks**
