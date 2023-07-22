@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **makauleon21@gmail.com**
 
-- 👨‍💻 My resume is **here**. (https://1drv.ms/b/s!Ai331zygIFJ6zmep1GSwgQ1oIOQG?e=DgzOE9)
+- 👨‍💻 <p>My resume is <a href="https://https://drive.google.com/file/d/1qrot87IHb_APV4By1kM27E45K4z85YgX/view?usp=sharing">**here**</a>.</p>
+
+
 
 - ⚡ Fun fact **I like to think that in another life I would have been Peter Griffin.**
 
