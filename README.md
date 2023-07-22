@@ -5,9 +5,9 @@
 
 - I’m currently enrolled in a 12-month **Software Engineering programme at ALX Africa.**
 
-- 👯 I’m looking to collaborate on **any hands on projects and challenges**
+- 👯 I’m looking to collaborate on **any hands on projects and challenges.**
 
-- 🤝 I’m looking for help with **cloud architecture and Devops tasks**
+- 🤝 I’m looking for help with **cloud architecture and Devops tasks.**
 
 - 👨‍💻 All of my projects are available on Github [https://github.com/MakauLeon](https://github.com/MakauLeon)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **makauleon21@gmail.com**
 
-- 👨‍💻 My resume is here. [https://1drv.ms/b/s!Ai331zygIFJ6zmep1GSwgQ1oIOQG?e=DgzOE9](https://1drv.ms/b/s!Ai331zygIFJ6zmep1GSwgQ1oIOQG?e=DgzOE9)
+- 👨‍💻 My resume is **here**. (https://1drv.ms/b/s!Ai331zygIFJ6zmep1GSwgQ1oIOQG?e=DgzOE9)
 
 - ⚡ Fun fact **I like to think that in another life I would have been Peter Griffin.**
 
