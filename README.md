@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Makau Leon</h1>
 <h3 align="center">A passionate Full stack developer from Nairobi,Kenya.</h3>
 
-- Im currently on track to complete my **Bachelors degree in Information Technology.**
+- Im currently on track to complete my **Bachelors degree in Computer Science.**
 
 - I’m currently enrolled in a 12-month **Software Engineering programme at ALX Africa.**
 
